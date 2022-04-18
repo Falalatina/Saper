@@ -67,7 +67,7 @@ for x in range(Settings.GRID_SIZE):
 
 Cell.randomize_mines()
 
-
+# uwu test
 
 # run window
 root.mainloop()
